@@ -49,7 +49,6 @@ steam() {
      	case : 1
           riceCooker.addRice();
           break;
-          *369*25za	z''err'tu
 
         case : 2
           riceCooker.cookRice();
