@@ -1,5 +1,5 @@
 import promptSync from 'prompt-sync';
-import {displayMenu} from "./menu.js";
+import {displayMenu} from "./menu.js.js";
 const prompt = promptSync();
 
 export const riceCooker = {
